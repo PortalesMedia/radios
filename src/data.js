@@ -6,10 +6,10 @@ function chillHop() {
         {
             name:"Sonido Pop",
             artist: "Radio ",
-            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            cover: "https://sonidopop.cl/audiopop/img/logo_sonidopop.png",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "https://frontend.radiohdvivo.com/sonidopop/live",
+            audio: "https://c21.radioboss.fm:8135/stream",
             active: true,
         },
       
